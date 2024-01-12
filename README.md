@@ -1,4 +1,6 @@
 Startup Funding Analysis Readme
+
+
 This project analyzes startup funding data to provide insights into investors and investment trends. 
 The analysis is divided into five case studies, each focusing on a specific aspect of startup funding.
 Below is a summary of each case study along with the steps and findings.
